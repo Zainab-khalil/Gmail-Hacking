@@ -7,4 +7,4 @@
 ### If you're interested in contributing to this repository, you can suggest improvements or provide alternative examples of email sending code for legitimate purposes.
 
 # License
-### This project is licensed under the MIT License.
+### This project is licensed under the MIT License. 
