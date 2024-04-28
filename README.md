@@ -1,4 +1,4 @@
-# Gmail-Hacking
+# Gmail-Block-Hacking
 ### This repository contains an example Python script that attempts to send unauthorized emails using the Simple Mail Transfer Protocol (SMTP) with a Gmail account. It's important to note that the code provided here should not be used for any malicious purposes or unauthorized access to email accounts.
 
 # Disclaimer
